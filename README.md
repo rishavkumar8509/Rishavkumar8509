@@ -23,14 +23,13 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/rishavkumar8509">
+  <a href="https://github.com/rishavkumar8509" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
+  <a href="https://www.linkedin.com/in/rishav-kumar-297a422a5" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishavkumar8509&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
 
 ---
 
